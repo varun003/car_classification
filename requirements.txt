@@ -1,0 +1,15 @@
+opencv-python
+pandas
+scipy
+matplotlib
+scikit-learn
+pillow
+tensorflow
+keras
+keras-tuner
+fastapi
+uvicorn
+seaborn
+python-multipart
+tensorflow-model-optimization
+huggingface_hub
